@@ -1,0 +1,47 @@
+[
+	{
+	  "id": "0xb8273e466bb0a4d7be358e81099b73abf14c7717",
+	  "token0": {
+		"symbol": "TKC",
+		"id": "0x2cb930c41648f50ada4686848433cb0ed51c0405"
+	  },
+	  "token1": {
+		"symbol": "TKA",
+		"id": "0xcd41eb164efa59a7d649c878aacca46daa69258e"
+	  },
+	  "feeTier": "1000",
+	  "liquidity": "92495059114852874044",
+	  "totalValueLockedUSD": "0",
+	  "totalValueLockedETH": "0"
+	},
+	{
+	  "id": "0xd62510c554a1c345a7ec0bf22a5f3465a04bf934",
+	  "token0": {
+		"symbol": "TKB",
+		"id": "0x623eb8d10026b49c0df520a8451f0b43a024bd3d"
+	  },
+	  "token1": {
+		"symbol": "TKA",
+		"id": "0xcd41eb164efa59a7d649c878aacca46daa69258e"
+	  },
+	  "feeTier": "1000",
+	  "liquidity": "92495059114852874044",
+	  "totalValueLockedUSD": "0",
+	  "totalValueLockedETH": "0"
+	},
+	{
+	  "id": "0xdfc48601e4fc03b33b9f08025e847cee1fde7bd6",
+	  "token0": {
+		"symbol": "ROUTE (PoS)",
+		"id": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+	  },
+	  "token1": {
+		"symbol": "DFYN",
+		"id": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
+	  },
+	  "feeTier": "1000",
+	  "liquidity": "38221203412021699692",
+	  "totalValueLockedUSD": "0",
+	  "totalValueLockedETH": "0"
+	}
+  ]
